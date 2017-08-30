@@ -10,7 +10,7 @@ import android.view.MotionEvent;
 import android.view.View;
 
 /**
- * Created by hua on 2017/8/30.
+ * Created by hua on 2017/8/30. 第二次
  */
 
 public class MyTextView extends View {
